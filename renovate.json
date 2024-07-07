@@ -1,3 +1,4 @@
 {
-  "commitMessageExtra": "from {{currentValue}} to {{newValue}}"
+  "commitMessageExtra": "from {{currentValue}} to {{newValue}}",
+  "rangeStrategy": "bump"
 }
