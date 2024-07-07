@@ -1,0 +1,3 @@
+{
+  "commitMessageExtra": "from {{currentValue}} to {{newValue}}"
+}
